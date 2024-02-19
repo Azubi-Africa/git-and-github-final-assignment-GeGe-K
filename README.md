@@ -21,7 +21,7 @@ The below table must contain the details of the repositories you will create, fi
 |    | Project's Name    | Description    | GitHub's Link  |
 |:--:|:-----------------:|:--------------:|:--------------:|
 | 1  | Sakila Database Analysis | The Sakila sample database is designed to represent a DVD rental store.| https://github.com/GeGe-K/SakilaDB-Analysis |
-| 2  |  -                |  -             | https://       |
+| 2  | Redesigned Journey | Visualized superstores data in Tableau | https://github.com/GeGe-K/redesigned-journey |
 | 3  |  -                |  -             | https://       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
