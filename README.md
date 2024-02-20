@@ -18,11 +18,11 @@ The following steps constitute your assignment :
 The below table must contain the details of the repositories you will create, fill it please.
 
 
-|  | Project's Name | Description    | GitHub's Link  |
-|:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+|    | Project's Name    | Description    | GitHub's Link  |
+|:--:|:-----------------:|:--------------:|:--------------:|
+| 1  | Sakila Database Analysis | The Sakila sample database is designed to represent a DVD rental store.| https://github.com/GeGe-K/SakilaDB-Analysis |
+| 2  | Redesigned Journey | Visualized superstores data in Tableau | https://github.com/GeGe-K/redesigned-journey |
+| 3  | NYC Ticket Violation |  Identifying missing values | https://github.com/GeGe-K/Ticket-Violation |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
